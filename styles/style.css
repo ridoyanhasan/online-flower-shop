@@ -18,7 +18,7 @@
 font-family: Lato;
 font-size: 50px;
 font-weight: 500px;
-padding bottom: 30px;;
+padding bottom: 30px;
 }
 .head-description{
     color: rgba(39, 39, 39, 0.60);
@@ -27,7 +27,9 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: 30px;
-padding-bottom: 30px;
+padding-top:20px;
+padding-bottom: 20px;
+
 }
 .btn{
     display: inline-flex;
@@ -39,6 +41,7 @@ background: #E55473;
 border: none;
 font-size: 20px;
 color: white;
+
 }
 /* Feature Section */
 .ftr-container{
