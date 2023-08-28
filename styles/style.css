@@ -43,7 +43,7 @@ color: white;
 }
 /* Feature Section */
 .ftr-container{
-    padding: 130px 0px;
+    padding: 80px 0px;
 }
 .ftr-info{
     text-align: center;
@@ -107,4 +107,26 @@ font-style: normal;
 font-weight: 500;
 line-height: 35px;
 }
-/*  */
+/* Service Section */
+.service-container{
+    width: 1000px;
+    height: 250px;
+    background-color: rgba(39, 39, 39, 0.05);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.service-item{
+    text-align: center;
+}
+.service-name{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px; 
+}
